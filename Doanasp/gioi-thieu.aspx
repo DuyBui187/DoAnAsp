@@ -34,16 +34,16 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#tinTuc">Tin Tức  <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="https://localhost:44379/giao-duc.aspx">Tin Tức<span class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#suKien">Sự Kiện</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa-hoc-cong-nghe.aspx">Sự Kiện</a>
                                         </li>
                                         <li class="nav-item ">
-                                            <a class="nav-link" href="#gioiThieu">Giới Thiệu </a>
+                                            <a class="nav-link" href="https://localhost:44379/gioi-thieu.aspx">Giới Thiệu</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Hệ Thống Các Khoa</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#khoa">Đăng Nhập</a>
@@ -70,30 +70,30 @@
                     </div>
                     <div class="row row1">
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/iconGioiThieu1.PNG" alt="" />Không gì quan trọng hơn việc bảo đảm HIỆU QUẢ trong mọi hành động.
+                            <img src="img/iconGioiThieu1.PNG" alt="" />Không gì quan trọng hơn việc bảo đảm HIỆU QUẢ trong mọi hành động.
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/iconGioiThieu1.PNG" alt="" />Không gì đáng quý hơn sự CÔNG BẰNG trong mọi ứng xử.
+                            <img src="img/iconGioiThieu1.PNG" alt="" />Không gì đáng quý hơn sự CÔNG BẰNG trong mọi ứng xử.
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/iconGioiThieu1.PNG" alt="" />Không có gì đạo đức hơn TINH THẦN PHỤNG SỰ đất nước.
+                            <img src="img/iconGioiThieu1.PNG" alt="" />Không có gì đạo đức hơn TINH THẦN PHỤNG SỰ đất nước.
                         </div>
                     </div>
                     <div class="row row2">
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/iconGioiThieu2.PNG" alt="" />
+                            <img src="img/iconGioiThieu2.PNG" alt="" />
                             <p>23,792 <span>SINH VIÊN/HỌC VIÊN</span></p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/iconGioiThieu3.PNG" alt="" />
+                            <img src="img/iconGioiThieu3.PNG" alt="" />
                             <p>1,400 <span>GIẢNG VIÊN/VIÊN CHỨC</span></p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/iconGioiThieu4.PNG" alt="" />
+                            <img src="img/iconGioiThieu4.PNG" alt="" />
                             <p>17 <span>KHOA CHUYÊN MÔN</span></p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/iconGioiThieu5.PNG" alt="" />
+                            <img src="img/iconGioiThieu5.PNG" alt="" />
                             <p>69 <span>NHÓM NGHIÊN CỨU</span></p>
                         </div>
                     </div>
@@ -103,14 +103,14 @@
                     <div class="gioiThieu3Title">LÃNH ĐẠO TRƯỜNG</div>
                     <div class="row">
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu8.jpg" alt="" />
+                            <img src="img/imgGioiThieu8.jpg" alt="" />
                             <div class="title">Hội đồng trường</div>
                             <div class="text">
                                 Thực hiện hoạt động quản lý Nhà trường với tư cách là cơ quan chủ quản theo ủy quyền của Tổng Liên đoàn Lao động Việt Nam<a>CHI TIẾT</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu9.jpg" alt="" />
+                            <img src="img/imgGioiThieu9.jpg" alt="" />
                             <div class="title">Đảng, đoàn thể</div>
                             <div class="text">
                                 Đảng bộ TNMT là tổ chức cơ sở Đảng thuộc Đảng bộ khối Đại học, Cao
@@ -118,7 +118,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu10.jpg" alt="" />
+                            <img src="img/imgGioiThieu10.jpg" alt="" />
                             <div class="title">Ban giám hiệu</div>
                             <div class="text">
                                 Hiệu trưởng TNMT là GS TS Lê Vinh Danh. Ban giám hiệu Trường gồm Hiệu trưởng và các Phó hiệu trưởng<a>CHI TIẾT</a>
@@ -130,21 +130,21 @@
                     <div class="gioiThieu4Title">CON NGƯỜI VÀ CƠ SỞ VẬT CHẤT</div>
                     <div class="row">
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu13.jpg" alt="" />
+                            <img src="img/imgGioiThieu13.jpg" alt="" />
                             <div class="title">Giảng viên - Nhà khoa học</div>
                             <div class="text">
                                 Đội ngũ giảng viên - chuyên gia - nhà khoa học là nguồn lực quan trọng trong quá trình phát triển của TNMT<a>CHI TIẾT</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu14.jpg" alt="" />
+                            <img src="img/imgGioiThieu14.jpg" alt="" />
                             <div class="title">Các đơn vị trực thuộc</div>
                             <div class="text">
                                 Danh mục các đơn vị thuộc TNMT được xếp theo khối Khoa-Trường, Viện-Trung tâm và Phòng-Ban<a>CHI TIẾT</a>
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu15.jpg" alt="" />
+                            <img src="img/imgGioiThieu15.jpg" alt="" />
                             <div class="title">Cơ sở vật chất</div>
                             <div class="text">
                                 TNMT có trụ sở chính tại Quận 7 và các cơ sở đào tạo tại Nha Trang, Bảo Lộc, Cà Mau; tất cả được đầu tư đầy đủ và hiện đại bậc nhất Việt Nam
@@ -157,28 +157,28 @@
                     <div class="gioiThieu5Title">KHÁM PHÁ TNMT</div>
                     <div class="row">
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu16.jpg" alt="" />
+                            <img src="img/imgGioiThieu16.jpg" alt="" />
                             <div class="title">Sắc Xuân TNMT: Campus Nha Trang</div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu17.jpg" alt="" />
+                            <img src="img/imgGioiThieu17.jpg" alt="" />
                             <div class="title">Sắc Xuân TNMT: Campus Bảo Lộc</div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu18.jpg" alt="" />
+                            <img src="img/imgGioiThieu18.jpg" alt="" />
                             <div class="title">Sắc Xuân TNMT: Campus Tân Phong</div>
                         </div>
 
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu21.png" alt="" />
+                            <img src="img/imgGioiThieu21.png" alt="" />
                             <div class="title">Toàn Cảnh ĐH</div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu19.jpg" alt="" />
+                            <img src="img/imgGioiThieu19.jpg" alt="" />
                             <div class="title">Campus Bảo Lộc</div>
                         </div>
                         <div class="col-lg-4">
-                            <img src="./../../../assets/img/imgGioiThieu20.jpg" alt="" />
+                            <img src="img/imgGioiThieu20.jpg" alt="" />
                             <div class="title">Chùm ảnh Bảo Lộc</div>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                         <div class="col-lg-6">
                             <div class="row rowNho">
                                 <div class="col-lg-4">
-                                    <img src="./../../../assets/img/imggioiThieu11.png" alt="" />
+                                    <img src="img/imggioiThieu11.png" alt="" />
                                 </div>
                                 <div class="col-lg-8">
                                     "Sau 10 năm tự chủ, Đại học Tài Nguyên Môi trường đã trở thành một trong những trường đại học hàng đầu Việt Nam, được xếp hạng bởi nhiều tổ chức quốc tế uy tín."
@@ -202,7 +202,7 @@
                         <div class="col-lg-6">
                             <div class="row rowNho">
                                 <div class="col-lg-4">
-                                    <img src="./../../../assets/img/imgGioiThieu22.jpg" alt="" />
+                                    <img src="img/imgGioiThieu22.jpg" alt="" />
                                 </div>
                                 <div class="col-lg-8">
                                     "TNMT như một “báu vật” quốc gia, vì là nơi đào tạo ra các kỹ sư có trình độ tiên tiến, phục vụ cho sự phát triển của nền công nghiệp 4.0"

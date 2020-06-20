@@ -34,16 +34,16 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#tinTuc">Tin Tức  <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="https://localhost:44379/giao-duc.aspx">Tin Tức<span class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#suKien">Sự Kiện</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa-hoc-cong-nghe.aspx">Sự Kiện</a>
                                         </li>
                                         <li class="nav-item ">
-                                            <a class="nav-link" href="#gioiThieu">Giới Thiệu </a>
+                                            <a class="nav-link" href="https://localhost:44379/gioi-thieu.aspx">Giới Thiệu</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Hệ Thống Các Khoa</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#khoa">Đăng Nhập</a>

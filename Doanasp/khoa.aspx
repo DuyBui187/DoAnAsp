@@ -34,16 +34,16 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#tinTuc">Tin Tức  <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="https://localhost:44379/giao-duc.aspx">Tin Tức<span class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#suKien">Sự Kiện</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa-hoc-cong-nghe.aspx">Sự Kiện</a>
                                         </li>
                                         <li class="nav-item ">
-                                            <a class="nav-link" href="#gioiThieu">Giới Thiệu </a>
+                                            <a class="nav-link" href="https://localhost:44379/gioi-thieu.aspx">Giới Thiệu</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Hệ Thống Các Khoa</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#khoa">Đăng Nhập</a>
@@ -63,72 +63,72 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa1.jpg" alt="" />
+                            <img src="img/imgKhoa1.jpg" alt="" />
                             <p>Dược</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa2.jpg" alt="" />
+                            <img src="img/imgKhoa2.jpg" alt="" />
                             <p>Kế toán</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa3.jpg" alt="" />
+                            <img src="img/imgKhoa3.jpg" alt="" />
                             <p>
                                 Khoa học ứng dụng
                             </p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa4.jpg" alt="" />
+                            <img src="img/imgKhoa4.jpg" alt="" />
                             <p>Công nghệ thông tin</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa7.jpg" alt="" />
+                            <img src="img/imgKhoa7.jpg" alt="" />
                             <p>Khoa học thể thao</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa8.jpg" alt="" />
+                            <img src="img/imgKhoa8.jpg" alt="" />
                             <p>Khoa học xã hội & nhân văn</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa9.jpg" alt="" />
+                            <img src="img/imgKhoa9.jpg" alt="" />
                             <p>Kỹ thuật công trình</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa10.jpg" alt="" />
+                            <img src="img/imgKhoa10.jpg" alt="" />
                             <p>Lao động & Công đoàn</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa11.jpg" alt="" />
+                            <img src="img/imgKhoa11.jpg" alt="" />
                             <p>Luật</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa12.jpg" alt="" />
+                            <img src="img/imgKhoa12.jpg" alt="" />
                             <p>Môi trường & Bảo hộ lao động</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa13.jpg" alt="" />
+                            <img src="img/imgKhoa13.jpg" alt="" />
                             <p>Mỹ thuật công nghiệp</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa14.jpg" alt="" />
+                            <img src="img/imgKhoa14.jpg" alt="" />
                             <p>Ngoại ngữ</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa15.jpg" alt="" />
+                            <img src="img/imgKhoa15.jpg" alt="" />
                             <p>Quản trị kinh doanh</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa19.jpg" alt="" />
+                            <img src="img/imgKhoa19.jpg" alt="" />
                             <p>
                                 Điện - Điện tử
                             </p>
                         </div>
 
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa17.jpg" alt="" />
+                            <img src="img/imgKhoa17.jpg" alt="" />
                             <p>Tài chính - Ngân hàng</p>
                         </div>
                         <div class="col-lg-3">
-                            <img src="./../../../assets/img/imgKhoa18.jpg" alt="" />
+                            <img src="img/imgKhoa18.jpg" alt="" />
                             <p>Toán - Thống kê</p>
                         </div>
                     </div>

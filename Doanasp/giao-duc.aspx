@@ -34,16 +34,16 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#tinTuc">Tin Tức  <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="https://localhost:44379/giao-duc.aspx">Tin Tức<span class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#suKien">Sự Kiện</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa-hoc-cong-nghe.aspx">Sự Kiện</a>
                                         </li>
                                         <li class="nav-item ">
-                                            <a class="nav-link" href="#gioiThieu">Giới Thiệu </a>
+                                            <a class="nav-link" href="https://localhost:44379/gioi-thieu.aspx">Giới Thiệu</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Hệ Thống Các Khoa</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#khoa">Đăng Nhập</a>
@@ -68,11 +68,11 @@
                         <div class="row rowLon">
                             <div class="col-lg-7 left">
                                 <div class="itemImg">
-                                    <img src="./../../../assets//img/imgTinTuc1.jpg" alt="" />
+                                    <img src="img/imgTinTuc1.jpg" alt="" />
                                 </div>
                                 <div class="itemContent">
                                     <div class="itemTitle">
-                                        <a href="/tinTuc" hreflang="vi">SDTC của Đại học TNMT hợp tác với Tổ chức
+                                        <a href="https://localhost:44379/giao-duc.aspx" hreflang="vi">SDTC của Đại học TNMT hợp tác với Tổ chức
                   OxfamViệtNam</a>
                                     </div>
                                     <div class="itemText">
@@ -91,7 +91,7 @@
                                 <div class="tinTucRight">
                                     <div class="row rowRight">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgTinTuc2.jpg" alt="" />
+                                            <img src="img/imgTinTuc2.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="text2">
@@ -105,7 +105,7 @@
                                     </div>
                                     <div class="row rowRight">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgTinTuc5.jpg" alt="" />
+                                            <img src="img/imgTinTuc5.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="text2">
@@ -120,7 +120,7 @@
                                     </div>
                                     <div class="row rowRight">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgTinTuc3.png" alt="" />
+                                            <img src="img/imgTinTuc3.png" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="text2">
@@ -135,7 +135,7 @@
                                     </div>
                                     <div class="row rowRight">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgTinTuc6.png" alt="" />
+                                            <img src="img/imgTinTuc6.png" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="text2">
@@ -165,7 +165,7 @@
                             <div class="hoatDongChungContent">
                                 <div class="row rowNho">
                                     <div class="col-lg-4 itemHoatDong">
-                                        <img src="./../../../assets/img/imgHoadDongChung.jpg" alt="" />
+                                        <img src="img/imgHoadDongChung.jpg" alt="" />
                                         <div class="itemtitle">
                                             Khai giảng Lớp trung cấp lý luận chính trị-hành chính
                                         </div>
@@ -176,7 +176,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4 itemHoatDong">
-                                        <img src="./../../../assets/img/imgHoadDongChung2.jpg" alt="" />
+                                        <img src="img/imgHoadDongChung2.jpg" alt="" />
                                         <div class="itemtitle">
                                             Đoàn Ban tuyên giáo trung ương Đảng thăm và làm việc với Đại
                   học TNMT
@@ -188,7 +188,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4 itemHoatDong">
-                                        <img src="./../../../assets/img/imgHoadDongChung3.jpg" alt="" />
+                                        <img src="img/imgHoadDongChung3.jpg" alt="" />
                                         <div class="itemtitle">
                                             Họp mặt đầu năm Năm Canh Tý
                                         </div>
@@ -242,7 +242,7 @@
                             <div class="giaoDucContent SharedContent">
                                 <div class="row rowNho">
                                     <div class="col-lg-6 itemGiaoDuc itemShared">
-                                        <img src="./../../../assets/img/imgGiaoDuc1.jpg" alt="" />
+                                        <img src="img/imgGiaoDuc1.jpg" alt="" />
                                         <div class="itemTile">
                                             Chương trình đào tạo thạc sỹ Ngành tài chính-ngân hàng của Đại
                   học TNMT được công nhận bởi Hiệp hội chuyên gia về
@@ -254,7 +254,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-6 itemGiaoDuc itemShared">
-                                        <img src="./../../../assets/img/imgGiaoDuc2.jpg" alt="" />
+                                        <img src="img/imgGiaoDuc2.jpg" alt="" />
                                         <div class="itemTile">
                                             Thư chúc mừng Đại học TNMT
                                         </div>
@@ -270,7 +270,7 @@
                             <div class="KHCNContent SharedContent">
                                 <div class="row rowNho">
                                     <div class="col-lg-6 itemKHCN itemShared">
-                                        <img src="./../../../assets/img/imgKhoa5.png" alt="" />
+                                        <img src="img/imgKhoa5.png" alt="" />
                                         <div class="itemTile">
                                             Học sinh Lớp 12 có nghiên cứu khoa học với sự hướng dẫn của chuyên gia Đại học TNMT được công bố trên tạp chí thuộc Danh mục ISI
                                         </div>
@@ -280,7 +280,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-6 itemKHCN itemShared">
-                                        <img src="./../../../assets/img/imgKhoa6.jpg" alt="" />
+                                        <img src="img/imgKhoa6.jpg" alt="" />
                                         <div class="itemTile">
                                             Nhà khoa học của Đại học TNMT tham gia Hội đồng thẩm định của tạp chí ISI
                                         </div>
@@ -299,7 +299,7 @@
         <section>
             <div class="banner">
                 <div class="container">
-                    <img src="./../../../assets/img/imgBannerTinTuc.jpg" alt="" />
+                    <img src="img/imgBannerTinTuc.jpg" alt="" />
                     <h2>Campus Life</h2>
                     <a href="">KHÁM PHÁ</a>
                 </div>

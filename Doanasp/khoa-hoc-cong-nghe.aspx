@@ -34,16 +34,16 @@
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#tinTuc">Tin Tức  <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="https://localhost:44379/giao-duc.aspx">Tin Tức<span class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#suKien">Sự Kiện</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa-hoc-cong-nghe.aspx">Sự Kiện</a>
                                         </li>
                                         <li class="nav-item ">
-                                            <a class="nav-link" href="#gioiThieu">Giới Thiệu </a>
+                                            <a class="nav-link" href="https://localhost:44379/gioi-thieu.aspx">Giới Thiệu</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Hệ Thống Các Khoa</a>
+                                            <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#khoa">Đăng Nhập</a>
@@ -70,15 +70,15 @@
                                 <div class="suKienItemLeft">
                                     <div class="row rowLeft">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgSuKien1.jpg" alt="" />
+                                            <img src="img/imgSuKien1.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="itemTitle">Seminar: Các thông số nhiệt hóa và cơ chế phát triển của cụm Silicon pha tạp Boron</div>
                                             <div class="itemText">
                                                 <p>
-                                                    <img src="./../../../assets/img/logoCalendar.PNG" alt="">từ 14:00 đến 16:00 ngày 15/05/2020</p>
+                                                    <img src="img/logoCalendar.PNG" alt="">từ 14:00 đến 16:00 ngày 15/05/2020</p>
                                                 <p>
-                                                    <img src="./../../../assets/img/logoAddress.PNG" alt="">Phòng họp C, Đại học Tôn Đức Thắng; 19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh</p>
+                                                    <img src="img/logoAddress.PNG" alt="">Phòng họp C, Đại học Tôn Đức Thắng; 19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh</p>
                                             </div>
                                         </div>
                                     </div>
@@ -86,15 +86,15 @@
                                 <div class="suKienItemLeft">
                                     <div class="row rowLeft">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgSuKien2.jpg" alt="" />
+                                            <img src="img/imgSuKien2.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="itemTitle">Cơ hội việc làm tại Trường quốc tế Việt Nam-Phần Lan</div>
                                             <div class="itemText">
                                                 <p>
-                                                    <img src="./../../../assets/img/logoCalendar.PNG" alt="">08:00 đến 10:00; ngày 07/3/2020 (thứ Bảy)</p>
+                                                    <img src="img/logoCalendar.PNG" alt="">08:00 đến 10:00; ngày 07/3/2020 (thứ Bảy)</p>
                                                 <p>
-                                                    <img src="./../../../assets/img/logoAddress.PNG" alt="">Trường quốc tế Việt Nam - Phần Lan; Số 01, Đường D1, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh.</p>
+                                                    <img src="img/logoAddress.PNG" alt="">Trường quốc tế Việt Nam - Phần Lan; Số 01, Đường D1, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -102,15 +102,15 @@
                                 <div class="suKienItemLeft">
                                     <div class="row rowLeft">
                                         <div class="col-lg-5">
-                                            <img src="./../../../assets/img/imgSuKien3.jpg" alt="" />
+                                            <img src="img/imgSuKien3.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-7">
                                             <div class="itemTitle">Cuộc thi khởi nghiệp: TNMT Startup Wings 2020</div>
                                             <div class="itemText">
                                                 <p>
-                                                    <img src="./../../../assets/img/logoCalendar.PNG" alt="">Từ 30/10/2019 đến 28/2/2020</p>
+                                                    <img src="img/logoCalendar.PNG" alt="">Từ 30/10/2019 đến 28/2/2020</p>
                                                 <p>
-                                                    <img src="./../../../assets/img/logoAddress.PNG" alt="">19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh</p>
+                                                    <img src="img/logoAddress.PNG" alt="">19 Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh</p>
                                             </div>
                                         </div>
                                     </div>

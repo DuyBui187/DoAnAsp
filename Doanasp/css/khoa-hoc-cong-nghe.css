@@ -40,8 +40,87 @@
                     left: 0;
                 }
 
+/*body khoa học công nghệ*/
+.suKien .container .suKienTitle {
+    width: 100%;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #CD2122;
+    color: white;
+    text-align: center;
+    margin: 40px 0;
+}
 
+.suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft {
+    margin-bottom: 20px;
+}
 
+    .suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft .rowLeft .col-lg-5 img {
+        width: 348px;
+        height: 167px;
+    }
+
+    .suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft .rowLeft .col-lg-7 .itemTitle {
+        font-weight: 600;
+        font-size: 17px;
+        transition: .5s;
+    }
+
+        .suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft .rowLeft .col-lg-7 .itemTitle:hover {
+            color: #CD2122;
+            cursor: pointer;
+        }
+
+    .suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft .rowLeft .col-lg-7 .itemText {
+        margin-top: 10px;
+    }
+
+        .suKien .container .suKienContent .rowLon .suKienLeft .suKienItemLeft .rowLeft .col-lg-7 .itemText img {
+            width: 20px;
+            height: 20px;
+        }
+
+.suKien .container .suKienContent .rowLon .suKienLeft .suKienRight .title {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.suKien .container .suKienContent .rowLon .suKienLeft .suKienRight .content .suKienItemRight {
+    margin-bottom: 20px;
+}
+
+    .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-5 {
+        padding: 5px;
+        background: #CD2122;
+        color: white;
+    }
+
+        .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-5 p {
+            font-size: 30px;
+            font-weight: 500;
+            margin: 0 0 0 10px;
+        }
+
+        .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-5 span {
+            font-size: 17px;
+            margin: 0 0 0 10px;
+        }
+
+        .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-5 hr {
+            margin: 2px;
+        }
+
+    .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-7 {
+        font-weight: 600;
+        transition: 0.5s;
+        font-size: 15px;
+    }
+
+        .suKien .container .suKienContent .rowLon .suKienRight .content .suKienItemRight .rowRight .col-lg-7:hover {
+            color: #CD2122;
+            cursor: pointer;
+        }
 /*footer*/
 .footer {
     padding: 1px 0;

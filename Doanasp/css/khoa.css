@@ -39,8 +39,27 @@
                     display: block;
                     left: 0;
                 }
+/*body khoa*/
+.khoa .container .row .col-lg-3 {
+    margin: 50px 0;
+}
 
+    .khoa .container .row .col-lg-3 img {
+        width: 270px;
+        height: 270px;
+    }
 
+    .khoa .container .row .col-lg-3 p {
+        margin-top: 20px;
+        font-size: 15px;
+        font-weight: 600;
+        transition: 1s;
+    }
+
+        .khoa .container .row .col-lg-3 p:hover {
+            color: red;
+            cursor: pointer;
+        }
 
 /*footer*/
 .footer {
