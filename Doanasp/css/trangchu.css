@@ -1,0 +1,456 @@
+﻿/*header*/
+.header {
+    background-color: #F9FADC;
+}
+
+    .header .fix .row nav ul {
+        list-style: none;
+        padding-top: 20px;
+    }
+
+        .header .fix .row nav ul li {
+            margin: 0 0 0 50px;
+            position: relative;
+        }
+
+            .header .fix .row nav ul li a {
+                color: black;
+                font-size: 18px;
+                transition: 0.5s;
+            }
+
+                .header .fix .row nav ul li a::after {
+                    content: '';
+                    position: absolute;
+                    display: block;
+                    width: 100%;
+                    height: 3px;
+                    background: #222;
+                    bottom: 0;
+                    background: #CD2122;
+                    left: -100%;
+                    display: none;
+                    transition: 1s;
+                }
+
+                .header .fix .row nav ul li a:hover a:hover::after {
+                    content: '';
+                    position: absolute;
+                    display: block;
+                    left: 0;
+                }
+
+/*body*/
+.chung {
+    margin-bottom: 30px;
+}
+/*banner*/
+.banner {
+    position: relative;
+}
+
+    .banner .banner-img {
+        position: relative;
+    }
+
+        .banner .banner-img img {
+            width: 100%;
+        }
+
+        .banner .banner-img .linkXemChiTiet {
+            position: absolute;
+            bottom: 10%;
+            left: 50%;
+            font-size: 15px;
+            font-weight: 600;
+        }
+
+            .banner .banner-img .linkXemChiTiet a {
+                color: white;
+                padding: 5px;
+                background-color: orangered;
+                border-radius: 5px;
+            }
+
+                .banner .banner-img .linkXemChiTiet a:hover {
+                    color: orangered;
+                    background: white;
+                }
+/*tin tức*/
+.tinTuc .container .title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4A93C4;
+    margin: 50px 0 30px 0;
+}
+
+.tinTuc .container .content .row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+    .tinTuc .container .content .row .col-lg-4 {
+        overflow: hidden;
+    }
+
+        .tinTuc .container .content .row .col-lg-4 img {
+            width: 100%;
+        }
+
+        .tinTuc .container .content .row .col-lg-4 .tinTucConTent .tinTucTitle {
+            font-size: 20px;
+        }
+
+            .tinTuc .container .content .row .col-lg-4 .tinTucConTent .tinTucTitle a {
+                color: black;
+                transition: 1s;
+            }
+
+            .tinTuc .container .content .row .col-lg-4 .tinTucConTent .tinTucTitle :hover {
+                color: red;
+            }
+
+        .tinTuc .container .content .row .col-lg-4 .tinTucConTent .tinTucText .text1 p {
+            color: red;
+            display: inline;
+        }
+
+.tinTuc .container .ticTucKhac {
+    text-align: right;
+    font-size: 20px;
+    margin: 50px 0;
+    font-weight: bold;
+}
+
+    .tinTuc .container .ticTucKhac a {
+        color: #CD2122;
+        transition: 1s;
+    }
+
+    .tinTuc .container .ticTucKhac :hover {
+        padding: 7px;
+        color: white;
+        background-color: #CD2122;
+    }
+
+/*sự kiện*/
+.suKien {
+    background: #F9FADC;
+}
+
+    .suKien .container .title {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        color: #4A93C4;
+        margin: 50px 0 30px 0;
+    }
+
+    .suKien .container .content .row {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+
+        .suKien .container .content .row .col-lg-4 {
+            overflow: hidden;
+        }
+
+            .suKien .container .content .row .col-lg-4 img {
+                width: 100%;
+                height: 176px;
+            }
+
+            .suKien .container .content .row .col-lg-4 .suKienConTent .suKienTitle {
+                font-size: 20px;
+            }
+
+                .suKien .container .content .row .col-lg-4 .suKienConTent .suKienTitle a {
+                    color: black;
+                    transition: 1s;
+                }
+
+                .suKien .container .content .row .col-lg-4 .suKienConTent .suKienTitle :hover {
+                    color: red;
+                }
+
+            .suKien .container .content .row .col-lg-4 .suKienConTent .suKienText .text1 p {
+                color: red;
+                display: inline;
+            }
+
+    .suKien .container .suKienkhac {
+        text-align: right;
+        font-size: 20px;
+        margin: 50px 0;
+        font-weight: bold;
+    }
+
+        .suKien .container .suKienkhac a {
+            color: #CD2122;
+            transition: 1s;
+        }
+
+        .suKien .container .suKienkhac :hover {
+            padding: 7px;
+            color: white;
+            background-color: #CD2122;
+        }
+
+/*giới thiệu*/
+.gioiThieu .container .title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4A93C4;
+    margin: 50px 0 30px 0;
+    text-transform: uppercase;
+}
+
+.gioiThieu .container .content img {
+    border: 1px solid #CD2122;
+}
+
+.gioiThieu .container .content .row1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin: 50px 0;
+}
+
+    .gioiThieu .container .content .row1 .col-lg-4 {
+        overflow: hidden;
+    }
+
+        .gioiThieu .container .content .row1 .col-lg-4 img {
+            width: 100%;
+            max-width: 300px;
+            height: 200px;
+        }
+
+        .gioiThieu .container .content .row1 .col-lg-4 .gioiThieuConTent {
+            padding: 10px 0;
+            position: relative;
+        }
+
+            .gioiThieu .container .content .row1 .col-lg-4 .gioiThieuConTent .gioiThieuTitle {
+                margin-top: 10px;
+                font-size: 15px;
+                text-align: center;
+                margin: 0 10px 0 0;
+            }
+
+                .gioiThieu .container .content .row1 .col-lg-4 .gioiThieuConTent .gioiThieuTitle a {
+                    color: black;
+                    transition: 1s;
+                }
+
+                .gioiThieu .container .content .row1 .col-lg-4 .gioiThieuConTent .gioiThieuTitle :hover {
+                    color: red;
+                }
+
+            .gioiThieu .container .content .row1 .col-lg-4 .gioiThieuConTent .gioiThieuText .text1 p {
+                color: red;
+                display: inline;
+            }
+
+        .gioiThieu .container .content .row1 .col-lg-4::after {
+            display: block;
+            z-index: 100;
+            bottom: 0%;
+            left: 50%;
+            content: '';
+            width: 50px;
+            height: 1px;
+            background: #222;
+            position: absolute;
+            margin-left: -25px;
+            z-index: 1;
+        }
+
+.gioiThieu .container .content .row2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: -15 px;
+    margin-left: -15px;
+}
+
+    .gioiThieu .container .content .row2 .col-lg-3 {
+        overflow: hidden;
+        position: relative;
+    }
+
+        .gioiThieu .container .content .row2 .col-lg-3 img {
+            width: 100%;
+            max-width: 300px;
+            height: 176px;
+        }
+
+        .gioiThieu .container .content .row2 .col-lg-3 .gioiThieuConTent {
+            position: relative;
+            padding: 10px 0;
+        }
+
+            .gioiThieu .container .content .row2 .col-lg-3 .gioiThieuConTent .gioiThieuTitle {
+                font-size: 15px;
+                margin-top: 10px;
+                text-align: center;
+            }
+
+                .gioiThieu .container .content .row2 .col-lg-3 .gioiThieuConTent .gioiThieuTitle a {
+                    color: black;
+                    transition: 1s;
+                }
+
+                .gioiThieu .container .content .row2 .col-lg-3 .gioiThieuConTent .gioiThieuTitle :hover {
+                    color: red;
+                }
+
+            .gioiThieu .container .content .row2 .col-lg-3 .gioiThieuConTent .gioiThieuText .text1 p {
+                color: red;
+                display: inline;
+            }
+
+        .gioiThieu .container .content .row2 .col-lg-3::after {
+            display: block;
+            z-index: 100;
+            bottom: 0%;
+            left: 50%;
+            content: '';
+            width: 50px;
+            height: 1px;
+            background: #222;
+            position: absolute;
+            margin-left: -25px;
+        }
+
+/*tốt nghiệp*/
+.totNghiep {
+    margin: 100px 0;
+}
+
+    .totNghiep .row .imgSV {
+        margin-left: 30%;
+    }
+
+    .totNghiep .row .totNghiepText .contentTotNghiep .item {
+        margin: 30px 0;
+    }
+
+        .totNghiep .row .totNghiepText .contentTotNghiep .item .row .itemText .item-title {
+            font-weight: bold;
+        }
+
+        .totNghiep .row .totNghiepText .contentTotNghiep .item .row .itemText .item-text {
+            display: inline;
+            font-size: 15px;
+        }
+
+            .totNghiep .row .totNghiepText .contentTotNghiep .item .row .itemText .item-text p {
+                color: #4A93C4;
+                display: inline;
+            }
+
+/*khoa*/
+.khoa .title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4A93C4;
+    margin: 50px 0 30px 0;
+}
+
+.khoa .container .content .row {
+    display: flex;
+    justify-content: space-between;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+    .khoa .container .content .row .item {
+        overflow: hidden;
+    }
+
+        .khoa .container .content .row .item img {
+            width: 100%;
+        }
+
+        .khoa .container .content .row .item .itemText {
+            margin-top: 20px;
+            text-align: right;
+        }
+
+            .khoa .container .content .row .item .itemText a {
+                color: black;
+                font-size: 15px;
+                transition: 1s;
+            }
+
+            .khoa .container .content .row .item .itemText :hover {
+                color: red;
+            }
+/*footer*/
+.footer {
+    padding: 1px 0;
+    width: 100%;
+    background-color: #252429;
+    color: white;
+}
+
+    .footer .container {
+        max-height: 300px;
+    }
+
+        .footer .container .rowLon {
+            margin: 50px 0 0 0;
+        }
+
+            .footer .container .rowLon .rowLienHe .item .title {
+                margin: 0 0 15px 0;
+                font-size: 18px;
+                font-weight: bold;
+            }
+
+            .footer .container .rowLon .rowLienHe .item .content {
+                padding: 0;
+                min-height: 150px;
+            }
+
+                .footer .container .rowLon .rowLienHe .item .content ul li {
+                    margin: 5px 0;
+                }
+
+                    .footer .container .rowLon .rowLienHe .item .content ul li a {
+                        color: #bbbbbb;
+                        transition: .5s;
+                    }
+
+                        .footer .container .rowLon .rowLienHe .item .content ul li a:hover {
+                            color: red;
+                            cursor: pointer;
+                        }
+
+            .footer .container .rowLon .diaChi .title {
+                font-size: 17px;
+                font-weight: bold;
+            }
+
+            .footer .container .rowLon .diaChi .content {
+                color: #bbbbbb;
+            }
+
+    .footer .copyRight {
+        text-align: center;
+        color: #bbbbbb;
+        padding: 30px 0;
+        background-color: #1F1E23;
+    }
