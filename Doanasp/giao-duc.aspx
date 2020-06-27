@@ -46,7 +46,7 @@
                                             <a class="nav-link" href="https://localhost:44379/khoa.aspx">Hệ Thống Các Khoa</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#khoa">Đăng Nhập</a>
+                                             <a class="nav-link" href="dangnhap.aspx">Đăng Nhập</a>
                                         </li>
                                     </ul>
                                 </div>

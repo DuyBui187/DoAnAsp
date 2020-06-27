@@ -72,6 +72,7 @@
     <Content Include="css\khoa.css" />
     <Content Include="css\gioi-thieu.css" />
     <Content Include="css\trangchu.css" />
+    <Content Include="dangnhap.aspx" />
     <Content Include="img\iconGioiThieu1.PNG" />
     <Content Include="img\iconGioiThieu2.PNG" />
     <Content Include="img\iconGioiThieu3.PNG" />
@@ -146,6 +147,7 @@
     <Content Include="img\logoFooter4.png" />
     <Content Include="img\logoHeader2.png" />
     <Content Include="img\logoHeaderTonDucThang.png" />
+    <Content Include="quanLy.aspx" />
     <Content Include="Web.config" />
     <Content Include="trangchu.aspx" />
     <Content Include="giao-duc.aspx" />
@@ -154,7 +156,21 @@
     <Content Include="khoa-hoc-cong-nghe.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dangnhap.aspx.cs">
+      <DependentUpon>dangnhap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dangnhap.aspx.designer.cs">
+      <DependentUpon>dangnhap.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quanLy.aspx.cs">
+      <DependentUpon>quanLy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="quanLy.aspx.designer.cs">
+      <DependentUpon>quanLy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="trangchu.aspx.cs">
       <DependentUpon>trangchu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
